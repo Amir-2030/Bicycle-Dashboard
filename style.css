@@ -175,6 +175,7 @@ font-size:26px;
     width:auto;
 	
   }
+ 
 
 }
 
@@ -182,12 +183,15 @@ font-size:26px;
  .ag-format-container {
   width:auto
   }
+  
+  
 }
 
 @media only screen and (max-width: 479px) {
  .ag-format-container {
 width:auto
   }
+ 
   
 }
 
@@ -195,6 +199,7 @@ width:auto
   .ag-format-container {
    width:auto
   }
+ 
 
 }
 
@@ -202,6 +207,7 @@ width:auto
   .ag-format-container {
    width:auto
   }
+
 
 }
 
@@ -226,5 +232,5 @@ input,
 
 
 #pwd{
-	width:30%;
+	width:85%;
 }
